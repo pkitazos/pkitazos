@@ -1,6 +1,6 @@
 ### Hello 👋
 
-- I'm a 4th year CS student @ UofG currently working on my Individual Project/Dissertation building a web platform to host student-project allocation
+- I'm a 4th year CS student @ UofG. I'm currently working on my Individual Project/Dissertation - building a web platform to host student-project allocations
 
 <!--
 **pkitazos/pkitazos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
