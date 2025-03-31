@@ -1,6 +1,9 @@
 ### Hello 👋
 
-- I'm a 5th year CS student @ UofG. I'm currently working at the Glasgow University Software Service building a web platform to host student-project allocations within the School of Computing Science
+- I'm a 5th year CS student @ UofG, specialising in Programming Languages
+- My Master's project is focused on building a [library](https://github.com/pkitazos/elixir-mpst) for statically typechecking Elixir communications using Multiparty Session Types
+- I'm currently working at the Glasgow University Software Service building the [web platform](https://github.com/pkitazos/spa) used to manage Student-Project and Reader-Project allocations within the School of Computing Science
+
 
 <!--
 **pkitazos/pkitazos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
